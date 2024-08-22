@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "15019620933",
+    "project_id": "authcrud10",
+    "storage_bucket": "authcrud10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15019620933:android:752fd3a45fafdb40e7812c",
+        "android_client_info": {
+          "package_name": "com.example.user_auth_crudd10"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgnlcQMmBm0G4j7RReLazZ9g_dNZ4FyQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
