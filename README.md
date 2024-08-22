@@ -1,8 +1,9 @@
 # 📚 PrepPDF App
-# PrepPDF is a Flutter application designed to provide structured access to previous year question papers and solutions. With a user-friendly interface, this app simplifies the way students prepare for exams.
+
+PrepPDF is a Flutter application designed to provide structured access to previous year question papers and solutions. With a user-friendly interface, this app simplifies the way students prepare for exams.
 
 
-# 🔗Linkdin Posts Related to This Project
+🔗Linkdin Posts of This Project
 
 
 # 📸 Screenshots
