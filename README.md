@@ -7,9 +7,9 @@ PrepPDF is a Flutter application designed to provide structured access to previo
 
 
 # 📸 Screenshots
-![Screenshot 2024-08-22 014024](https://github.com/user-attachments/assets/6b0e86f4-ac6f-47e1-9826-d15c6667fc0f)
-![Screenshot 2024-08-22 013812](https://github.com/user-attachments/assets/8bb0bd7f-622a-41d9-b037-74cfdfc5c18e)
-![Screenshot 2024-08-22 013846](https://github.com/user-attachments/assets/61ec8e2e-97a6-4e8b-816e-7de67f8f9fcc)
+![Screenshot 2024-08-22 014024](![Screenshot 2024-08-22 164649](https://github.com/user-attachments/assets/cfdc3f96-bd8e-4ddf-a6a8-362e264404e1)
+![Screenshot 2024-08-22 164649](https://github.com/user-attachments/assets/500cb030-9606-40cd-9ea0-9f72d3a47098)
+![Screenshot 2024-08-22 164719](https://github.com/user-attachments/assets/f7c53a7c-73de-41a3-82fc-a2843622a4e7)
 
 
 # ✨ Features
