@@ -1,20 +1,17 @@
 # 📚 PrepPDF App
-## PrepPDF is a Flutter application designed to provide structured access to previous year question papers and solutions. With a user-friendly interface, this app simplifies the way students prepare for exams.
+# PrepPDF is a Flutter application designed to provide structured access to previous year question papers and solutions. With a user-friendly interface, this app simplifies the way students prepare for exams.
 
 
-🔗Linkdin Posts Related to This Project
+# 🔗Linkdin Posts Related to This Project
 
 
-📸 Screenshots
+# 📸 Screenshots
 ![Screenshot 2024-08-22 014024](https://github.com/user-attachments/assets/6b0e86f4-ac6f-47e1-9826-d15c6667fc0f)
-
 ![Screenshot 2024-08-22 013812](https://github.com/user-attachments/assets/8bb0bd7f-622a-41d9-b037-74cfdfc5c18e)
-
 ![Screenshot 2024-08-22 013846](https://github.com/user-attachments/assets/61ec8e2e-97a6-4e8b-816e-7de67f8f9fcc)
 
 
-✨ Features
-
+# ✨ Features
 - 🔒 Firebase Authentication: Secure user login and registration.
 - 💳 Payment Gateway Integration: Seamless payments using Razorpay for premium features.
 - 📲 Push Notifications: Stay updated with the latest exam-related information.
@@ -23,8 +20,7 @@
 - 🛠️ User-Friendly UI: Simple and intuitive design for easy navigation.
 
 
-🚀 How It Works
-
+# 🚀 How It Works
 1. User Registration/Login: Users can sign up or log in using Firebase Authentication.
 2. Browse PDFs: Access previous year question papers, organized by subjects and years.
 3. Notifications: Receive updates about new content or features directly via push notifications.
@@ -33,8 +29,7 @@
 6. Update User Information: Users can update their personal information, such as name and year, stored in Firestore.
 
 
-🛠️ Packages Used
-
+# 🛠️ Packages Used
 - firebase_auth: User authentication using Firebase.
 - cloud_firestore: Storing and retrieving user data.
 - firebase_storage: Hosting PDFs on Firebase Storage.
